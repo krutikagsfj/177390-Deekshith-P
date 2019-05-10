@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "games": [
+    {
+      "id": 1,
+      "gName": "Shooting",
+      "price":105
+    },
+    {
+      "id": 2,
+      "gName": "Angry Birds",
+      "price": 95
+    },
+    {
+      "id": 3,
+      "gName": "Temple Run",
+      "price": 200
+    },
+    {
+      "id": 4,
+      "gName": "Bike Race",
+      "price": 90
+    },
+    {
+      "id": 5,
+      "gName": "Air Control",
+      "price": 800
+    }
+
+  ]
+  
+}
